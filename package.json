@@ -1,0 +1,45 @@
+{
+  "name": "samplejson",
+  "version": "1.0.0",
+  "description": "A sample package.json",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Discord Bot Developments",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "enmap": "^5.8.8",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "express": "^4.17.3",
+    "asynckit": "^0.4.0",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "discord-api-types": "^0.29.0",
+    "form-data": "^4.0.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "node-fetch": "^3.2.2",
+    "tr46": "^3.0.0",
+    "ts-mixer": "^6.0.1",
+    "tslib": "^2.3.1",
+    "webidl-conversions": "^7.0.0",
+    "whatwg-url": "^11.0.0",
+    "ws": "^8.5.0",
+    "zod": "^3.13.4"
+  }
+}
