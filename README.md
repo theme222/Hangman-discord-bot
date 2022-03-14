@@ -14,4 +14,5 @@ This is a discord bot for playing hangman
 
 ## Hosted on glitch https://glitch.com/edit/#!/dear-noon-individual
 
-This is the source code for the project which is 100% open source althougth I don't recommend trying to look through it because it is really bad
+This is the source code for the project which is 100% open source althougth 
+I don't recommend trying to look through it because it is really bad
