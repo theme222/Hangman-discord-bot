@@ -13,3 +13,5 @@ This is a discord bot for playing hangman
 ← `words_new.txt`: a list of the top 1000 most popular words in english
 
 ## Hosted on glitch https://glitch.com/edit/#!/dear-noon-individual
+
+This is the source code for the project which is 100% open source althougth I don't recommend trying to look through it because it is really bad
